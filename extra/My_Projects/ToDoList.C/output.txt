@@ -1,0 +1,6 @@
+vera 3 0
+sasha 1 1
+kotJson 4 1
+kotRuzya 2 0 
+kotBulochka 5 1
+kotKoritca 7 0
